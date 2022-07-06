@@ -40,5 +40,4 @@ function PairOfBarriers(height, opening, horizontalPosition) {
 
   this.drawOpening();
   this.setHorizontalPosition(horizontalPosition);
-};
-
+}
