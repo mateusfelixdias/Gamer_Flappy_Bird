@@ -20,7 +20,7 @@
 
 [game-flappy] {
   background-color: #17162e;
-  border: 5px solid darkslateblue;
+  /* border: 5px solid darkslateblue; */
   position: absolute;
   height: 100%;
   width: 100%;
