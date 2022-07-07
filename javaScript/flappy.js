@@ -176,5 +176,4 @@ function FlappyBird(){
   };
 };
 
-
 new FlappyBird().startGamer();
