@@ -31,7 +31,6 @@
   position: absolute;
   width: 60px;
   left: calc(50% - 30px);
-  bottom: 50%;
 }
 
 .pairOfBarrier {
@@ -65,8 +64,10 @@
 }
 
 .progress {
+  color: rgb(6, 6, 243);
   position: absolute;
   right: 10px;
   top: 10px;
   font-size: 70px;
+  z-index: 100;
 }
